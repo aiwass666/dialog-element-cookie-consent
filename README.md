@@ -1,4 +1,4 @@
-# dialog-element-cookie-consent
+# Dialog Element Cookie Consent
 A simple, fast, easy and Cookie Consent using the HTML &lt;dialog> element instead of &lt;div> elements. The idea was to create something that will render as fast as possible and have as little impact as possible on the rendering process. It is faster than using 
 
 ### Code scippets 
